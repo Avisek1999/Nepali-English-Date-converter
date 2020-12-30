@@ -1,0 +1,12 @@
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\bin\Debug\NepaliDateConverter.Net.pdb
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.csprojAssemblyReference.cache
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.pdb
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\bin\Debug\DateConverterDB.mdf
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\bin\Debug\DateConverterDB_log.ldf
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\bin\Debug\NepaliDateConverter.Net.exe.config
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\bin\Debug\NepaliDateConverter.Net.exe
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.exe
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.DateConverterApp.resources
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.csproj.GenerateResource.cache
+C:\Users\ABHISHEK\source\repos\NepaliDateConverter.Net-master\NepaliDateConverter.Net\obj\Debug\NepaliDateConverter.Net.Properties.Resources.resources
